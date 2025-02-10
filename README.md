@@ -19,3 +19,23 @@ I'm **Isha**, a passionate **Software Developer Trainee at Tekgeminus**, with ex
 - 📂 [Portfolio/GitHub](https://github.com/isha1221)  
 
 ⚡ **Fun Fact:** I love solving complex problems and optimizing code for efficiency!  
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=isha1221&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+
+<p align="Center">
+    <img width="50" height="50" src="https://img.icons8.com/officel/50/react.png" alt="react"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/50/redux.png" alt="redux"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>       
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>
+
+
