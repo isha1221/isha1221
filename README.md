@@ -21,7 +21,7 @@ I'm **Isha**, a passionate **Software Developer Trainee at Tekgeminus**, with ex
 ⚡ **Fun Fact:** I love solving complex problems and optimizing code for efficiency!  
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-dun.vercel.app?user=isha1221&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://readme-streak.nabilpatel.xyz?user=isha1221&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 
