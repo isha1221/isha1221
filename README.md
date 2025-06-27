@@ -16,7 +16,7 @@ I'm **Isha**, a passionate **Software Developer Trainee at Tekgeminus**, with ex
 
 📫 **Let's Connect:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/isha-pathak-40aa91215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg6J5qUsvQbGkgImA8KDYVQ%3D%3D)
-- 📂 [Portfolio/GitHub](https://github.com/isha1221)  
+- 📂 [Portfolio](https://isha1221.github.io/)
 
 ⚡ **Fun Fact:** I love solving complex problems and optimizing code for efficiency!  
 
